@@ -1,8 +1,7 @@
 import tkinter as tk
 import random
-import turtle
 import math
-T=turtle.turtles
+
 class Ruleta:
     def __init__(self, root):
         self.root = root
